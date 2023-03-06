@@ -21,3 +21,8 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * Sayı veri türleri ve matematik işlemler
 * String, boolean veri türleri
 * Input fonksiyonu
+
+## 3. Hafta
+* Karşılaştırma ve mantıksal operatörler
+* Karar yapıları
+* Döngüler
