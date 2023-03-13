@@ -26,3 +26,10 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * Karşılaştırma ve mantıksal operatörler
 * Karar yapıları
 * Döngüler
+
+## 4. Hafta
+* Listeler
+    * Liste metodları ve liste toplama
+* Tuple (Demet)
+* Set
+* Dictionary (Sözlük)
