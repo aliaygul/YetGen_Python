@@ -33,3 +33,11 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * Tuple (Demet)
 * Set
 * Dictionary (Sözlük)
+
+## 5. Hafta
+* List comprehension
+* Fonksiyon yapıları
+* Argüman ve return deyimi
+* *args,**kvargs ve passt deyimi
+* Global ve yerel değişkenleri
+* Lambda
