@@ -41,3 +41,8 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * *args,**kvargs ve passt deyimi
 * Global ve yerel değişkenleri
 * Lambda
+
+## 6. Hafta
+* Modüller
+* Hata yönetimi
+* Gömülü fonksiyonlar
