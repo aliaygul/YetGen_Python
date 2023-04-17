@@ -1,0 +1,11 @@
+ayran, 5
+ekmek, 5
+kola, 7
+sucuk, 15
+salam, 15
+yumurta, 7
+kek, 9
+sprite, 5
+bileklik, 7
+kağıt, 5
+

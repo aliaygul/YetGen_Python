@@ -46,3 +46,7 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * Modüller
 * Hata yönetimi
 * Gömülü fonksiyonlar
+
+
+## 7. Hafta
+* Dosya okuna işlemleri
