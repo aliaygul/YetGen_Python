@@ -48,5 +48,16 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * Gömülü fonksiyonlar
 
 
-## 7. Hafta
+## 8. Hafta
 * Dosya okuma
+* Dosyaya yazma
+* Dosyaları otomatik kapatma
+* Dosyada ileri-geri sarmak
+* Dosyanın; 
+    *sonunda değişiklik yapmak
+    *başında değişiklik yapmak
+    *ortasında değişiklik yapmak
+* Nesne yönelimli programlama
+    * class
+    * init()
+    
