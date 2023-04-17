@@ -49,4 +49,4 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 
 
 ## 7. Hafta
-* Dosya okuna işlemleri
+* Dosya okuma
