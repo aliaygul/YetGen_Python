@@ -1,0 +1,30 @@
+kullanici ad ali
+kullanıcının yaşi kilo ve boy bilgisi 21, 78.0, 1.9
+kullanıcını boy kilo endeksi 21.6
+değer aralığı normal kilolu
+oluşturma tarihi Wed Apr 19 16:28:12 2023
+********************
+kullanici ad çağan
+kullanıcının yaşi kilo ve boy bilgisi 15, 71.0, 1.82
+kullanıcını boy kilo endeksi 21.4
+değer aralığı normal kilolu
+oluşturma tarihi Wed Apr 19 16:28:22 2023
+********************
+kullanici ad ipek
+kullanıcının yaşi kilo ve boy bilgisi 15, 50.0, 1.7
+kullanıcını boy kilo endeksi 17.3
+değer aralığı zayıf
+oluşturma tarihi Wed Apr 19 16:28:35 2023
+********************
+kullanici ad mehmet
+kullanıcının yaşi kilo ve boy bilgisi 45, 90.0, 1.85
+kullanıcını boy kilo endeksi 26.3
+değer aralığı fazla kilolu
+oluşturma tarihi Wed Apr 19 16:28:50 2023
+********************
+kullanici ad oya
+kullanıcının yaşi kilo ve boy bilgisi 45, 85.0, 1.72
+kullanıcını boy kilo endeksi 28.7
+değer aralığı fazla kilolu
+oluşturma tarihi Wed Apr 19 16:29:02 2023
+********************
