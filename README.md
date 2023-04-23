@@ -60,4 +60,7 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 * Nesne yönelimli programlama
     * class
     * init()
-    
+
+## 9. Hafta
+* Methotlar
+* Inheritance

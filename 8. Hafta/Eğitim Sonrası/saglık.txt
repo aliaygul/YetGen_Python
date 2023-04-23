@@ -28,3 +28,9 @@ kullanıcını boy kilo endeksi 28.7
 değer aralığı fazla kilolu
 oluşturma tarihi Wed Apr 19 16:29:02 2023
 ********************
+kullanici ad oktay kuşoğlu
+kullanıcının yaşi kilo ve boy bilgisi 24, 87.0, 1.96
+kullanıcını boy kilo endeksi 22.6
+değer aralığı normal kilolu
+oluşturma tarihi Sun Apr 23 15:12:46 2023
+********************
