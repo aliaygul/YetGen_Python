@@ -64,3 +64,17 @@ YetGen Core Python Eğitim Programı sürecinde yaptıklarım.
 ## 9. Hafta
 * Methotlar
 * Inheritance
+
+## 10. Hafta
+* Numpy
+* Birleştirme (Concatenation)
+* Array Ayırma (Splitting)
+* Numpy Array'in Özellikleri
+* Array Sıralama(Sorting)
+* Index ile elemanlara erişmek
+* Slicing ile elemanlara erişmek (array alt kümesine erişmek)
+* Alt küme üzerinde işlem yapmak
+* Fancy index
+* Koşullu Eleman İşlemleri 
+* Matematiksel işlemler
+* İki bilinmeyenli denklem çözümü
